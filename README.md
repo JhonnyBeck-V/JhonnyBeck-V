@@ -65,7 +65,7 @@ https://www.figma.com/proto/KYDNbj5dnY1Wi8ksfGD0FN/litrog%C3%A1s?node-id=46-113&
 
 ## Motivational Phrase
 
-""No matter how difficult life may appear, there is always something you can do and succeed in. As long as there is life, there is hope." 
+"No matter how difficult life may appear, there is always something you can do and succeed in. As long as there is life, there is hope." 
 
 - Stephen Hawking
 

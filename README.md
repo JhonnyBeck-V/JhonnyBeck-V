@@ -4,7 +4,7 @@
 
 ***
 
-## My History:
+## My Career
 * Graduated in Computer Engineering - CEUMA (2018 - 2022)
 * Acted as a Support Intern for the Operations Division at the Public Defender's Office (2021 - 2022)
 * I worked in the Administrative Department at the Department of Education (2023 - 2025)

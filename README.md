@@ -3,11 +3,12 @@
 ## Greetings, my name is João Victor Vieira Beckman. At present, my main professional focus is advancing my career as a full-stack developer, employing JavaScript and Vue.js for front-end development, alongside Next.js for the back-end. Beyond web frameworks, I actively develop automation solutions and manage database architectures using SQL, Supabase, n8n, and Python to build practical and efficient applications. I am continuously striving to acquire new expertise in the technology sector, driven by the belief that it can fundamentally change our world and secure a future replete with innovations, inventions, and forward-thinking ideas for the job market.
 
 ***
-## My project Figma
-<div> 
-https://www.figma.com/proto/KYDNbj5dnY1Wi8ksfGD0FN/litrog%C3%A1s?node-id=46-113&p=f&t=UuhkwQIx8vN6tZwj-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
-***
+## My History:
+* Graduated in computer engineering - CEUMA (2018 - 2022)
+* Acted as a Support Intern for the Operations Division at the Public Defender's Office (2021 - 2022)
+* I worked in the administrative department at the Department of Education (2023 - 2025)
+* I am currently pursuing studies in the fields of Artificial Intelligence and Software Development at Incode and EBAC (2025 - present)
 </div>
 
 ## My Experience
@@ -49,6 +50,27 @@ https://www.figma.com/proto/KYDNbj5dnY1Wi8ksfGD0FN/litrog%C3%A1s?node-id=46-113&
   <a href="https://www.instagram.com/jvvbeckman" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:jvvbeckman123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-victor-vieira-beckman-1ab147217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img align="center" alt="Jhonny-Gohan" src =https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdobGdtZGl6ZjQ5ZG14am9zcmhuaGN5ZHM0dmtwdXJuMnJhY2F6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VYEBjVz79dy8/giphy.gif>
+  
 </div>
+
+***
+## My project
+<div> 
+https://www.figma.com/proto/KYDNbj5dnY1Wi8ksfGD0FN/litrog%C3%A1s?node-id=46-113&p=f&t=UuhkwQIx8vN6tZwj-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1 
+  
 </div>
+
+***
+
+
+## Motivational Phrase
+
+""No matter how difficult life may appear, there is always something you can do and succeed in. As long as there is life, there is hope." 
+
+- Stephen Hawking
+
+***
+
+## GIFTS
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdobGdtZGl6ZjQ5ZG14am9zcmhuaGN5ZHM0dmtwdXJuMnJhY2F6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VYEBjVz79dy8/giphy.gif" width="48%"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenI1eXZpbXhmNzZjdWNobGp6YzFrOWFiNXY0OHBteDYwOXQ0cHlmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rzr6V9lPpSM8g/giphy.gif" width="48%">

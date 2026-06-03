@@ -9,6 +9,7 @@
 * Acted as a Support Intern for the Operations Division at the Public Defender's Office (2021 - 2022)
 * I worked in the Administrative Department at the Department of Education (2023 - 2025)
 * I am currently pursuing studies in the fields of Artificial Intelligence and Software Development at Incode and EBAC (2025 - present)
+***
 </div>
 
 ## My Experience

@@ -5,9 +5,9 @@
 ***
 
 ## My History:
-* Graduated in computer engineering - CEUMA (2018 - 2022)
+* Graduated in Computer Engineering - CEUMA (2018 - 2022)
 * Acted as a Support Intern for the Operations Division at the Public Defender's Office (2021 - 2022)
-* I worked in the administrative department at the Department of Education (2023 - 2025)
+* I worked in the Administrative Department at the Department of Education (2023 - 2025)
 * I am currently pursuing studies in the fields of Artificial Intelligence and Software Development at Incode and EBAC (2025 - present)
 </div>
 
